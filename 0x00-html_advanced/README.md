@@ -160,5 +160,6 @@ Read or watch:
 
 ---
 
-## Author
+## Authors
+* **Aasem Ali** - [aasemali](https://github.com/aasemali) 
 * **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
